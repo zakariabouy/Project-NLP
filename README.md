@@ -1,5 +1,5 @@
-Intro to NLP project
---------------------
+Instructions
+------------
 
 1. Allez dans le dossier du projet dans une fenetre Terminal
 2. Créer un environnement dédié avec:
